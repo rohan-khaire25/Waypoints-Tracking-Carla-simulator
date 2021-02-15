@@ -13,3 +13,9 @@ The CARLA python client runs on **Python 3.5.x or Python 3.6.x (x is any number)
 * Download the 'Course1FinalProject' Folder and place it in `$HOME/opt/CarlaSimulator/PythonClient`.
 * In one terminal, start the CARLA simulator at a 30hz fixed time-step: `./CarlaUE4.sh /Game/Maps/RaceTrack -windowed -carla-server -benchmark -fps=30`
 * In another terminal, change the directory to go into the "Course1FinalProject" folder, under the "PythonClient" folder. Run your controller, execute the following command while CARLA is open: `python3 module_7.py`.
+
+### Result illustration ###
+
+![Carla](images/Carla.png)
+
+![waypoints](images/waypoints.png)
